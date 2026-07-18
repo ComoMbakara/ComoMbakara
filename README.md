@@ -3,9 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Goodness+%F0%9F%91%8B;Backend+Engineer;FOCOSA+President" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ComoMbakara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
-</div>
+
+
 
 <!-- Profile Banner -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
