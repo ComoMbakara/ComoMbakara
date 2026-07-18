@@ -45,7 +45,7 @@
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Goodnessmbakara&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ComoMbakara&style=flat-square&color=blue" alt="Profile Views"/>
   <h4>💡 Let's Build Something Amazing Together 🚀</h4>
 </div>
 <!--
